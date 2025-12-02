@@ -1,1 +1,1 @@
-# ruke-podrske-client
+Ruka Podrske Client Logic
